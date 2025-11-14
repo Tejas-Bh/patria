@@ -1,3 +1,5 @@
+`git clone https://github.com/Tejas-Bh/patria.git ./cypat/`
+
 # patria
 
 linux reference
