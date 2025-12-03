@@ -10,6 +10,9 @@ add groups:
 check all running services:
 `systemctl list-units --type=service --state=active`
 
+find full name from username on ubuntu
+`grep "^your_username:" /etc/passwd | cut -d: -f5`
+
 - [ ] Forensics
 - [ ] User Auditing
 - [ ] Insecure Files
